@@ -30,7 +30,7 @@ html {
 
 header{
     display: flex;
-    background-color: black;
+    background-color: rgb(68, 68, 68);
     min-height: 80px;
     align-items: center;
     justify-content: space-around;
